@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Palavras de Afirmação</string>
+    <string name="affirmation1">Eu mereço ser amado.</string>
+    <string name="affirmation2"> Eu faço boas escolhas.</string>
+    <string name="affirmation3"> Um novo dia traz novas oportunidades. </string>
+    <string name="affirmation4"> Eu escolho viver a vida que eu adoro. </string>
+    <string name="affirmation5"> Sou forte o bastante para enfrentar meus desafios. </string>
+    <string name="affirmation6"> Eu posso ser legal. </string>
+    <string name="affirmation7"> Eu cresço, eu evoluo. </string>
+    <string name="affirmation8"> Posso escolher ser uma pessoa melhor. </string>
+    <string name="affirmation9"> Preciso ser verdadeiro comigo mesmo. </string>
+    <string name="affirmation10"> Tudo bem em dizer não. </string>
+</resources>
